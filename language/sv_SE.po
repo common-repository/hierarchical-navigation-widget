@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sub Post Navigation Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-11 11:58+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dennis Hoppe <mail@DennisHoppe.de>\n"
+"Language-Team: Onlinebyrån <patrik@onlinebyran.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t;t:2c,1\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-Country: SWEDEN\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-widget-sub-post-navigation.php:27
+msgid "Sub Post Navigation"
+msgstr "Sub Post Navigering"
+
+#: ../wp-widget-sub-post-navigation.php:28
+msgid "This widget display a navigation on hierarchically organized post types."
+msgstr "Denna widget visar navigering p&aring; hierarkiskt organiserade inl&auml;gg"
+
+#: ../wp-widget-sub-post-navigation.php:62
+msgid "Navigation"
+msgstr "Navigering"
+
+#: ../wp-widget-sub-post-navigation.php:194
+#, php-format
+msgid "Sorry, this feature is only available in the <a href=\"%s\" target=\"_blank\">Pro Version</a>."
+msgstr "Denna funktionen finns bara i <a href=\"%s\" target=\"_blank\">Pro-versionen</a>."
+
+#: ../wp-widget-sub-post-navigation.php:195
+msgctxt "Link to the authors website"
+msgid "http://dennishoppe.de/en/wordpress-plugins/sub-post-navigation"
+msgstr "http://dennishoppe.de/en/wordpress-plugins/sub-post-navigation"
+
+#: ../form.php:3
+msgid "Title:"
+msgstr "Titel:"
+
+#: ../form.php:5
+msgid "This title will only be used if there is no useable parent post title."
+msgstr "Denna titel kommer endast anv&auml;ndas om det inte finns n&aring;gon anv&auml;ndbar titel p&aring; f&ouml;r&auml;lder-inl&auml;gget"
+
+#: ../form.php:11
+msgid "Hide the widget title."
+msgstr "D&ouml;lj Widget-titeln."
+
+#: ../form.php:18
+msgid "Replace the widget title with the title of the parent page if possible."
+msgstr "Ers&auml;tt widgetens titel med titeln p&aring; f&ouml;r&auml;lder-sidan om det &auml;r m&ouml;jligt."
+
+#: ../form.php:22
+msgid "Post Types"
+msgstr "Post Types"
+
+#: ../form.php:23
+msgid "Please select the post types which should be shown by this widget."
+msgstr "Var god v&auml;lj den \"Post Type\" som ska visas av denna widget"
+
+#: ../form.php:34
+msgid "Post order"
+msgstr "Inl&auml;ggssortering"
+
+#: ../form.php:36
+msgid "Order posts by:"
+msgstr "Sortera inl&auml;gg:"
+
+#: ../form.php:38
+msgid "Post ID"
+msgstr "Post ID"
+
+#: ../form.php:39
+msgid "Author"
+msgstr "F&ouml;rfattare"
+
+#: ../form.php:40
+msgid "Title"
+msgstr "Titel"
+
+#: ../form.php:41
+msgid "Date"
+msgstr "Datum"
+
+#: ../form.php:42
+msgid "Modified date"
+msgstr "&Auml;ndrad datum"
+
+#: ../form.php:43
+msgid "Random order"
+msgstr "Slumpm&auml;ssig ordning"
+
+#: ../form.php:44
+msgid "Number of comments"
+msgstr "Antal kommentarer"
+
+#: ../form.php:45
+msgid "Menu order"
+msgstr "Menysortering"
+
+#: ../form.php:52
+msgid "Order the posts ascending."
+msgstr "Sortera inl&auml;ggen stigande"
+
+#: ../form.php:59
+msgid "Order the posts descending."
+msgstr "Sortera inl&auml;ggen fallande"
+
+#: ../form.php:66
+msgid "Exclude"
+msgstr "Exkludera"
+
+#: ../form.php:76
+msgid "Special case"
+msgstr "Specialfall"
+
+#: ../form.php:80
+msgid "Hide this widget on top level posts if there are no child posts."
+msgstr "D&ouml;lj denna widget p&aring; inl&auml;gg i topp-niv&aring; om det inte finns n&aring;gra undersidor/inl&auml;gg"
+
+#: ../form.php:85
+msgid "Parent link"
+msgstr "F&ouml;r&auml;ldral&auml;nk"
+
+#: ../form.php:87
+msgid "Hide the parent post link."
+msgstr "D&ouml;lj l&auml;nken till f&ouml;r&auml;ldra-inl&auml;gg."
+
+#: ../form.php:94
+msgid "Show the parent post link on top of the list."
+msgstr "Visa inl&auml;ggets l&auml;nk-f&ouml;r&auml;lder i toppen av listan."
+
+#: ../form.php:101
+msgid "Show the parent post link on bottom of the list."
+msgstr "Visa inl&auml;ggets l&auml;nk-f&ouml;r&auml;lder l&auml;ngst ned i listan."
+
+#~ msgid ""
+#~ "The Lite version of this Widget is visible to logged in users only. Why "
+#~ "not switching to the <a href=\"%s\" target=\"_blank\">Pro Version</a>? :)"
+#~ msgstr ""
+#~ "Lite-versionen av denna widget &auml;r endast synlig f&ouml;r inloggade "
+#~ "anv&auml;ndare. Varf&ouml;r inte byta till <a href=\"%s\" target=\"_blank"
+#~ "\">Pro-versionen</a>? :)"
+
+#~ msgid "Attention please!"
+#~ msgstr "Observera!"
